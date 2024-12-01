@@ -4,9 +4,7 @@ list1 = []
 list2 = []
 
 for line in data:
-    #modified_string = ''.join('*' if not char.isdecimal() else char for char in line)
-    line = line.split()
-    
+    line = line.split()    
     list1.append(int(line[0]))
     list2.append(int(line[1]))
 
