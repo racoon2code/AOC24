@@ -12,22 +12,16 @@ for line in data:
     list2.append(int(line[1]))
 
 
-
-
 list1.sort()
 list2.sort()
 
-ergebnis = 0
-
-count = 0
+result = 0
 
 for i in list1:
-    i2 = list2[count]
-    if i > i2:
-        ergebnis += i - i2
-    elif i2 > i:
-        ergebnis += i2 - i
-    count += 1
+    i2 = list2.count(i)
+    if i2 > 0:
+        temp = i * i2
+        result += temp
 
-print(ergebnis)  
+print(result)  
 
