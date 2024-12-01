@@ -19,17 +19,20 @@ python solution.py
 ```
 Alternativ kannst du das gesamte Repository klonen und über ein Skript automatisiert die Lösungen für verschiedene Tage testen.
 
-🛠️ Technologien
+## 🛠️ Technologien
 
 Python: Meine bevorzugte Sprache für die Lösungen.
 Eventuell kommen weitere Tools oder Bibliotheken hinzu, je nach Bedarf.
-📈 Fortschritt
+
+## 📈 Fortschritt
+
 Tag	Teil 1	Teil 2
 01	✅	✅
 ...	...	...
 
-📜 Lizenz
+## 📜 Lizenz
+
 Dieses Repository steht unter der MIT-Lizenz.
 Die Rätsel und Eingabedaten sind Eigentum von Advent of Code.
 
-🎅 Viel Spaß beim Programmieren und eine frohe Adventszeit!
+## 🎅 Viel Spaß beim Programmieren und eine frohe Adventszeit!
