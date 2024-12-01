@@ -1,7 +1,9 @@
 # Advent of Code 2024 🎄
 
 Willkommen zu meinem Repository für den **Advent of Code 2024**!  
-[Advent of Code](https://adventofcode.com/2024) ist ein jährlicher Programmierwettbewerb, bei dem jeden Tag vom 1. bis 25. Dezember ein neues Rätsel veröffentlicht wird. Dieses Repository enthält meine Lösungen und eventuellen Anmerkungen zu den Herausforderungen.
+[Advent of Code](https://adventofcode.com/2024) ist ein jährlicher Programmierwettbewerb, bei dem jeden Tag vom 1. bis 25. Dezember ein neues Rätsel veröffentlicht wird. 
+
+Dieses Repository enthält meine Lösungen und eventuellen Anmerkungen zu den Herausforderungen.
 
 ## 📂 Projektstruktur
 
@@ -26,8 +28,10 @@ Eventuell kommen weitere Tools oder Bibliotheken hinzu, je nach Bedarf.
 
 ## 📈 Fortschritt
 
-Tag	Teil 1	Teil 2
+Day	Teil 1	Teil 2
+
 01	✅	✅
+
 ...	...	...
 
 ## 📜 Lizenz
