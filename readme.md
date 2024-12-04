@@ -23,8 +23,8 @@ Alternativ kannst du das gesamte Repository klonen und über ein Skript automati
 
 ## 🛠️ Technologien
 
-Python: Meine bevorzugte Sprache für die Lösungen.
-Eventuell kommen weitere Tools oder Bibliotheken hinzu, je nach Bedarf.
+-Python: Meine bevorzugte Sprache für die Lösungen.
+         Eventuell kommen weitere Tools oder Bibliotheken hinzu, je nach Bedarf.
 
 ## 📈 Fortschritt
 
