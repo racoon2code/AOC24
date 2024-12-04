@@ -41,6 +41,6 @@ Day	Teil 1	Teil 2
 ## 📜 Lizenz
 
 Dieses Repository steht unter der MIT-Lizenz.
-Die Rätsel und Eingabedaten sind Eigentum von Advent of Code.
+Die Rätsel und Eingabedaten sind Eigentum von [Advent of Code](https://adventofcode.com/2024/about).
 
 ## 🎅 Viel Spaß beim Programmieren und eine frohe Adventszeit!
